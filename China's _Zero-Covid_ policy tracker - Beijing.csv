@@ -1,0 +1,36 @@
+,Covid data,,,,quarantine policy,,,,covid test policy,,,,,
+date,cases increased local,non-symptoms cases increased local,cases increased from oversea,non-symptoms cases increased from oversea,for close contacts,,for travlers from oversea,,for travelers outside Beijing,,,for travelers from oversea,for everyone,
+,,,,,centralizaed quarantine period (day),home quarantine period (day),centralizaed quarantine period (day),home quarantine period (day),covid test result in x hours,covid test policy after entering Beijing,no public gathering for x days,covid test policy,"for entering facilities (workplace, restaurant, etc.) hours",for public transportation
+Nov. 5,43,6,6,15,7,3,7,3,48,2 tests in 3 days,7,every day for 10 days,72,72
+Nov. 6,41,18,3,18,7,3,7,3,48,2 tests in 3 days,7,every day for 10 days,72,72
+Nov. 7,31,33,5,8,7,3,7,3,48,2 tests in 3 days,7,every day for 10 days,72,72
+Nov. 8,32,48,6,7,7,3,7,3,48,2 tests in 3 days,7,every day for 10 days,72,72
+Nov. 9,34,61,4,6,7,3,7,3,48,2 tests in 3 days,7,every day for 10 days,72,72
+Nov. 10,64,54,0,2,7,3,7,3,48,2 tests in 3 days,7,every day for 10 days,72,72
+Nov. 11,68,48,2,12,7,3,7,3,48,2 tests in 3 days,7,every day for 10 days,72,72
+Nov. 12,161,74,1,4,5,3,5,3,48,2 tests in 3 days,7,every day for 8 days ,72,72
+Nov. 13,237,170,3,4,5,3,5,3,48,2 tests in 3 days,7,every day for 8 days ,72,72
+Nov. 14,303,159,2,2,5,3,5,3,48,2 tests in 3 days,7,every day for 8 days ,72,72
+Nov. 15,197,174,5,4,5,3,5,3,48,2 tests in 3 days,7,every day for 8 days ,72,72
+Nov. 16,172,262,0,1,5,3,5,3,48,2 tests in 3 days,7,every day for 8 days ,72,72
+Nov. 17,100,366,1,3,5,3,5,3,48,2 tests in 3 days,7,every day for 8 days ,72,72
+Nov. 18,79,436,5,15,5,3,5,3,48,2 tests in 3 days,7,every day for 8 days ,72,72
+Nov. 19,69,552,5,14,5,3,5,3,48,2 tests in 3 days,7,every day for 8 days ,72,72
+Nov. 20,154,808,3,3,5,3,5,3,48,2 tests in 3 days,7,every day for 8 days ,72,72
+Nov. 21,274,1164,5,0,5,3,5,3,48,2 tests in 3 days,7,every day for 8 days ,72,72
+Nov. 22,388,1098,8,40,5,3,5,3,48,3 tests in 3 days,7,every day for 8 days ,72,72
+Nov. 23,509,1139,8,10,5,3,5,3,48,3 tests in 3 days,7,every day for 8 days ,72,72
+Nov. 24,424,1436,8,23,5,3,5,3,48,3 tests in 3 days,7,every day for 8 days ,48,48
+Nov. 25,586,2009,1,0,5,3,5,3,48,3 tests in 3 days,7,every day for 8 days ,48,48
+Nov. 26,747,3560,3,16,5,3,5,3,48,3 tests in 3 days,7,every day for 8 days ,48,48
+Nov. 27,840,3048,16,23,5,3,5,3,48,3 tests in 3 days,7,every day for 8 days ,48,48
+Nov. 28,957,3429,16,12,5,3,5,3,48,3 tests in 3 days,7,every day for 8 days ,48,48
+Nov. 29,1282,3240,3,7,5,3,5,3,48,3 tests in 3 days,7,every day for 8 days ,48,48
+Nov. 30,1023,4020,12,15,5,3,5,3,48,3 tests in 3 days,7,every day for 8 days ,48,48
+Dec. 1,942,3026,6,9,5,3,5,3,48,3 tests in 3 days,7,every day for 8 days ,48,48
+Dec. 2,703,2610,2,12,5,3,5,3,48,3 tests in 3 days,7,every day for 8 days ,48,48
+Dec. 3,708,2486,4,12,5,3,5,3,48,3 tests in 3 days,7,every day for 8 days ,48,48
+Dec. 4,1021,2731,10,11,5,3,5,3,48,3 tests in 3 days,7,every day for 8 days ,48,48
+Dec. 5,1163,3503,2,2,5,3,5,3,48,3 tests in 3 days,7,every day for 8 days ,48,N
+Dec. 6,1170,2804,4,3,5,3,5,3,N,N,N,every day for 8 days ,N,N
+Dec 7,1168,2194,8,8,0,5,5,3,N,N,N,every day for 8 days ,N,N
